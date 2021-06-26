@@ -1,2 +1,5 @@
 安装mingw方法
 https://blog.csdn.net/jiqiren_dasheng/article/details/103775488
+
+1. 按照1的exe方法安装，如果出错，多试几次
+2. 把这个文件路径放到path里面：C:\myself\mingw\mingw64\bin
